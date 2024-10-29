@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: marvel;
+}
+p {
+  text-align: justify;
+}
+i {
+  cursor: pointer;
+}
