@@ -9,14 +9,14 @@ export const Carrucel = () => {
         <div className="carousel-inner">
           <div className="carousel-item">
             <img
-              src="../public/heroes/MARVEL.jpg"
+              src="/heroes/MARVEL.jpg"
               className="d-block w-100"
               alt="..."
             />
           </div>
           <div className="carousel-item">
             <img
-              src="../public/heroes/DC1.jpg"
+              src="/heroes/DC1.jpg"
               className="d-block w-100"
               alt="..."
             />
