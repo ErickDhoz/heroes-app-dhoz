@@ -23,7 +23,7 @@ export const LoginPage = () => {
   };
 
   return (
-    <div className="cuerpo  ">
+    <div className="cuerpo  animate__fadeIn">
       <div className="contenedor container animate__animated animate__fadeInDown">
         <div className="fondo-titulo">
           <h1>Marvel y DC Comics</h1>
